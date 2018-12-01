@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code-2018",
+  "version": "1.0.0",
+  "description": "daily challenges from http://adventofcode.com/2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbranchaudrubenovitch/advent-of-code-2018.git"
+  },
+  "keywords": [
+    "advent-of-code"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gbranchaudrubenovitch/advent-of-code-2018/issues"
+  },
+  "homepage": "https://github.com/gbranchaudrubenovitch/advent-of-code-2018#readme"
+}
