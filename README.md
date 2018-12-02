@@ -2,4 +2,5 @@
  daily challenges from http://adventofcode.com/2018
 
 ## How to run
-* `node d01`
+* Node.js v10.14.1 LTS+
+* `npm run day -- 01`
